@@ -2,4 +2,4 @@
 collection of some good Openbox themes (LXQT WM)
 
 
-unzip and place the themes folder and rename themes as .themes in home directory ie: ```/home/username/.themes```
+unzip and place the themes folder in home directory and rename as .themes ie: ```/home/username/.themes```
